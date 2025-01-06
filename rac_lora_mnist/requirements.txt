@@ -1,0 +1,5 @@
+lightning
+torch
+torchvision
+torchmetrics
+matplotlib
